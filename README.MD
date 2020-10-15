@@ -67,7 +67,7 @@ Abrir 3 terminais na pasta **rpc_pyhthon** de comando e criar trës ambientes vi
     cd testemunha
     python3 testemunha.py run
     
-Ao rodar **testemuha.py** irá abrir duas janelas.
+Ao rodar **testemunha.py** irá abrir duas janelas.
 Preencha o campo nome de ambas as telas e clique no botão que
 sinaliza a resposta.
 Abaixo na Label **Veredito** sairá a resposta do Juiz de acordo
